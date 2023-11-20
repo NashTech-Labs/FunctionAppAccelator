@@ -1,0 +1,48 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>FunctionAppAccelator</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>FunctionAppAccelator</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <CreateInPlace>true</CreateInPlace>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FunctionAppAccelator.csproj" File="FunctionAppAccelator.csproj" ReplaceParameters="true">
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <Folder Name="PublishProfiles" TargetFolderName="PublishProfiles">
+          <ProjectItem ReplaceParameters="false" TargetFileName="FunctionAppAccelator20231017224115 - Zip Deploy.pubxml">FunctionAppAccelator20231017224115 - Zip Deploy.pubxml</ProjectItem>
+        </Folder>
+        <Folder Name="ServiceDependencies" TargetFolderName="ServiceDependencies">
+          <Folder Name="FunctionAppAccelator20231017224115 - Zip Deploy" TargetFolderName="FunctionAppAccelator20231017224115 - Zip Deploy">
+            <ProjectItem ReplaceParameters="true" TargetFileName="appInsights1.arm.json">appInsights1.arm.json</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="storage1.arm.json">storage1.arm.json</ProjectItem>
+          </Folder>
+        </Folder>
+        <ProjectItem ReplaceParameters="true" TargetFileName="launchSettings.json">launchSettings.json</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="serviceDependencies.json">serviceDependencies.json</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="serviceDependencies.FunctionAppAccelator20231017224115 - Zip Deploy.json">serviceDependencies.FunctionAppAccelator20231017224115 - Zip Deploy.json</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="serviceDependencies.local.json">serviceDependencies.local.json</ProjectItem>
+      </Folder>
+      <Folder Name=".vs" TargetFolderName=".vs" />
+      <Folder Name="Helpers" TargetFolderName="Helpers">
+        <ProjectItem ReplaceParameters="true" TargetFileName="CosmosHelper.cs">CosmosHelper.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="EventHelper.cs">EventHelper.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName=".gitignore">.gitignore</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AsyncApiHandler.cs">AsyncApiHandler.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AsyncEventHandler.cs">AsyncEventHandler.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="host.json">host.json</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="local.settings.json">local.settings.json</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SyncApiHandler.cs">SyncApiHandler.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

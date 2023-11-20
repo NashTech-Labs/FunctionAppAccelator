@@ -1,0 +1,35 @@
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\bin\Debug\ProjectTemplates\FunctionAppAccelatorDemo.zip
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\bin\Debug\FunctionAppAccelatorDemo.vsix
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.csproj.AssemblyReference.cache
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\_EmptyResource.resources
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.csproj.GenerateResource.cache
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.dll
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\FunctionAppAccelatorDemo.pdb
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\extension.vsixmanifest
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\files.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\TemplateManifests\templateManifest0.noloc.vstman
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\__TemplateIcon.ico
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\.gitignore
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\__TemplateIcon.ico
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\AsyncApiHandler.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\AsyncEventHandler.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\FunctionAppAccelator.csproj
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\HELPERS\CosmosHelper.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\HELPERS\EventHelper.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\host.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\local.settings.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\MyTemplate.vstemplate
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\Program.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\launchSettings.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\PUBLISHPROFILES\FunctionAppAccelator20231017224115 - Zip Deploy.pubxml
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\serviceDependencies.FunctionAppAccelator20231017224115 - Zip Deploy.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\serviceDependencies.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\serviceDependencies.local.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\SERVICEDEPENDENCIES\FUNCTIONAPPACCELATOR20231017224115 - ZIP DEPLOY\appInsights1.arm.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\PROPERTIES\SERVICEDEPENDENCIES\FUNCTIONAPPACCELATOR20231017224115 - ZIP DEPLOY\storage1.arm.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\FunctionAppAccelator\SyncApiHandler.cs
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\ProjectTemplates\FunctionAppAccelatorDemo\FunctionAppAccelatorDemo\MyTemplate.vstemplate
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\obj\Debug\templateFiles.json
+C:\Users\akshit.kumar\source\repos\FunctionAppAccelatorDemo\bin\Debug\ProjectTemplates\FunctionAppAccelatorExample.zip
